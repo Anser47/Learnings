@@ -1,7 +1,10 @@
 # sample_learning
+In this repository I push things I learn
+****************************************************
 
-A new Flutter project.
+Connectivity package using bolc in nov_10 folder
 
+***************************************************
 ## Getting Started
 
 This project is a starting point for a Flutter application.
